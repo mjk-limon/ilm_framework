@@ -1,7 +1,7 @@
 {
-    "name": "mjk-limon/ilm_framework",
-    "type": "project",
+    "name": "mjk-limon/ilm-framework",
     "description": "The ilm event framework v1",
+    "license": "MIT",
     "authors": [
         {
             "name": "Jahid Limon",
